@@ -12,12 +12,13 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://flight-price-prediction646.herokuapp.com/](https://flight-price-prediction646.herokuapp.com/)
 
 [![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
 
 
-[!][](https://drive.google.com/file/d/1WqgoQNFTYy09XO5G5_TlOfSqL6Os485z/view?usp=sharing)
+![FPP](https://user-images.githubusercontent.com/72031522/148726831-40105c05-5fc0-407e-a80e-402c7ee9becd.png)
+
 
 
 ## Overview
